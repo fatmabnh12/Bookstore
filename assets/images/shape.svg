@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224" height="198" viewBox="0 0 224 198">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.864" gradientTransform="matrix(0.477, -0.879, 0.748, 0.406, -0.112, 0.737)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6a83"/>
+      <stop offset="0.447" stop-color="#f98875"/>
+      <stop offset="0.996" stop-color="#f3a866"/>
+      <stop offset="1" stop-color="#73514b"/>
+      <stop offset="1" stop-color="#dcd2d2"/>
+      <stop offset="1" stop-color="#6e5049"/>
+    </radialGradient>
+    <filter id="shape" x="0" y="0" width="224" height="198" filterUnits="userSpaceOnUse">
+      <feOffset />
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Tracé_2484)">
+    <path id="Tracé_2484-2" data-name="Tracé 2484" d="M0,0V162c8.845-3.446,16.114-11.267,17.126-20.759.563-5.278-.729-10.567-.9-15.873s1.12-11.208,5.413-14.237c4.885-3.446,11.511-1.888,17.222-.2l56.556,16.74c10.93,3.235,24.716,5.671,32-3.215,5.018-6.126,4.384-15.455.791-22.538s-9.587-12.533-15.128-18.175c-5.907-6.016-11.552-12.632-14.4-20.621s-2.4-17.65,3.008-24.132c6.588-7.9,18.342-8.931,28.319-6.813s19.389,6.735,29.5,8.015,21.924-1.931,26.418-11.22c2.744-5.674,2.2-12.347,1.551-18.633A68.225,68.225,0,0,1,186.959,0Z" transform="translate(18 18)" opacity="0.77" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

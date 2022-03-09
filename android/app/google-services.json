@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91323684208",
+    "project_id": "tutoapp-e84d7",
+    "storage_bucket": "tutoapp-e84d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91323684208:android:08f52d016745ec09a5ebb5",
+        "android_client_info": {
+          "package_name": "com.example.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91323684208-7r8e58b3oidvuthpbf3htd0stia4g0mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRZo_rTQWFRPvQL54qZ8ODfvaSwPXv0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91323684208-7r8e58b3oidvuthpbf3htd0stia4g0mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
