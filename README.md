@@ -1,4 +1,4 @@
-# pdf
+# Educative IT application
 
 A new Flutter project.
 
